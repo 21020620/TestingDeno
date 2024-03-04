@@ -1,0 +1,6 @@
+{
+    "imports": {
+        "antd": "https://cdn.jsdelivr.net/npm/antd@5.15.0/+esm",
+        "react-hook-form": "https://cdn.jsdelivr.net/npm/react-hook-form@7.51.0/+esm"
+    }
+}
